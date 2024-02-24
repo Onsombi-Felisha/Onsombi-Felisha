@@ -2,7 +2,9 @@
 - 👀 I’m interested in making data driven decision by analysing data.
 - 🌱 I’m currently learning ore on Data Science
 - 💞️ I’m looking to collaborate on data science projects
-- 📫 How to reach me @felishangina@gmail.com
+- 📫 How to reach me
+- @felishangina@gmail.com
+- @www.linkedin.com/in/felisha-mong-ina-6b526420b
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 
